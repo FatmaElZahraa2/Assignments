@@ -1,0 +1,15 @@
+H:\UpSkilling - Ahmed Mamdouh Course\Assignments\Payment Methods\bin\Debug\net7.0\Payment Methods.exe
+H:\UpSkilling - Ahmed Mamdouh Course\Assignments\Payment Methods\bin\Debug\net7.0\Payment Methods.deps.json
+H:\UpSkilling - Ahmed Mamdouh Course\Assignments\Payment Methods\bin\Debug\net7.0\Payment Methods.runtimeconfig.json
+H:\UpSkilling - Ahmed Mamdouh Course\Assignments\Payment Methods\bin\Debug\net7.0\Payment Methods.dll
+H:\UpSkilling - Ahmed Mamdouh Course\Assignments\Payment Methods\bin\Debug\net7.0\Payment Methods.pdb
+H:\UpSkilling - Ahmed Mamdouh Course\Assignments\Payment Methods\obj\Debug\net7.0\Payment Methods.csproj.AssemblyReference.cache
+H:\UpSkilling - Ahmed Mamdouh Course\Assignments\Payment Methods\obj\Debug\net7.0\Payment Methods.GeneratedMSBuildEditorConfig.editorconfig
+H:\UpSkilling - Ahmed Mamdouh Course\Assignments\Payment Methods\obj\Debug\net7.0\Payment Methods.AssemblyInfoInputs.cache
+H:\UpSkilling - Ahmed Mamdouh Course\Assignments\Payment Methods\obj\Debug\net7.0\Payment Methods.AssemblyInfo.cs
+H:\UpSkilling - Ahmed Mamdouh Course\Assignments\Payment Methods\obj\Debug\net7.0\Payment Methods.csproj.CoreCompileInputs.cache
+H:\UpSkilling - Ahmed Mamdouh Course\Assignments\Payment Methods\obj\Debug\net7.0\Payment Methods.dll
+H:\UpSkilling - Ahmed Mamdouh Course\Assignments\Payment Methods\obj\Debug\net7.0\refint\Payment Methods.dll
+H:\UpSkilling - Ahmed Mamdouh Course\Assignments\Payment Methods\obj\Debug\net7.0\Payment Methods.pdb
+H:\UpSkilling - Ahmed Mamdouh Course\Assignments\Payment Methods\obj\Debug\net7.0\Payment Methods.genruntimeconfig.cache
+H:\UpSkilling - Ahmed Mamdouh Course\Assignments\Payment Methods\obj\Debug\net7.0\ref\Payment Methods.dll

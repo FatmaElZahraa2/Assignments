@@ -1,0 +1,15 @@
+H:\UpSkilling - Ahmed Mamdouh Course\Assignments\Customer Notifications\bin\Debug\net7.0\Customer Notifications.exe
+H:\UpSkilling - Ahmed Mamdouh Course\Assignments\Customer Notifications\bin\Debug\net7.0\Customer Notifications.deps.json
+H:\UpSkilling - Ahmed Mamdouh Course\Assignments\Customer Notifications\bin\Debug\net7.0\Customer Notifications.runtimeconfig.json
+H:\UpSkilling - Ahmed Mamdouh Course\Assignments\Customer Notifications\bin\Debug\net7.0\Customer Notifications.dll
+H:\UpSkilling - Ahmed Mamdouh Course\Assignments\Customer Notifications\bin\Debug\net7.0\Customer Notifications.pdb
+H:\UpSkilling - Ahmed Mamdouh Course\Assignments\Customer Notifications\obj\Debug\net7.0\Customer Notifications.csproj.AssemblyReference.cache
+H:\UpSkilling - Ahmed Mamdouh Course\Assignments\Customer Notifications\obj\Debug\net7.0\Customer Notifications.GeneratedMSBuildEditorConfig.editorconfig
+H:\UpSkilling - Ahmed Mamdouh Course\Assignments\Customer Notifications\obj\Debug\net7.0\Customer Notifications.AssemblyInfoInputs.cache
+H:\UpSkilling - Ahmed Mamdouh Course\Assignments\Customer Notifications\obj\Debug\net7.0\Customer Notifications.AssemblyInfo.cs
+H:\UpSkilling - Ahmed Mamdouh Course\Assignments\Customer Notifications\obj\Debug\net7.0\Customer Notifications.csproj.CoreCompileInputs.cache
+H:\UpSkilling - Ahmed Mamdouh Course\Assignments\Customer Notifications\obj\Debug\net7.0\Customer Notifications.dll
+H:\UpSkilling - Ahmed Mamdouh Course\Assignments\Customer Notifications\obj\Debug\net7.0\refint\Customer Notifications.dll
+H:\UpSkilling - Ahmed Mamdouh Course\Assignments\Customer Notifications\obj\Debug\net7.0\Customer Notifications.pdb
+H:\UpSkilling - Ahmed Mamdouh Course\Assignments\Customer Notifications\obj\Debug\net7.0\Customer Notifications.genruntimeconfig.cache
+H:\UpSkilling - Ahmed Mamdouh Course\Assignments\Customer Notifications\obj\Debug\net7.0\ref\Customer Notifications.dll
